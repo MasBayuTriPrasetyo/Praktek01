@@ -10,5 +10,7 @@ package praktek01;
  * @author BAYU TRI PRASETYO
  */
 public class MahasiswaAksi {
-    
+    public static void main(String[] args) {
+        Mahasiswa Harry = new Mahasiswa();
+    }
 }
